@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="io.github.eleanor.em.bagel" type="repository">
+    <properties maven-id="io.github.eleanor-em:bagel:1.9.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/github/eleanor-em/bagel/1.9.3/bagel-1.9.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-assimp/3.2.2/lwjgl-assimp-3.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-assimp/3.2.2/lwjgl-assimp-3.2.2-natives-windows.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
